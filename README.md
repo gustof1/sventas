@@ -1,2 +1,0 @@
-# sventas
-Sistema de ventas
